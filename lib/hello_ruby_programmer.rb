@@ -1,1 +1,1 @@
-greeting("M")
+greeting(name)
